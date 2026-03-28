@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+.yarn-integrity
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
